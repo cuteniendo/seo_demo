@@ -1,0 +1,9 @@
+# Internal planning & reference docs — not part of the public site.
+# Excluded so GitHub Pages (which serves straight from the repo) never exposes them.
+CLAUDE.md
+prompts.md
+references/
+keywords.csv
+service-keywords.csv
+Service-Keywords.csv
+slideshow/
