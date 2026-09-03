@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.westernweldingacademy.com/sitemap.xml
+Sitemap: https://cuteniendo.github.io/seo_demo/sitemap.xml
