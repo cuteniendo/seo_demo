@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://cuteniendo.github.io/seo_demo/sitemap.xml
+Sitemap: https://seo-demo-cyan.vercel.app/sitemap.xml
